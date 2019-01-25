@@ -1,0 +1,2 @@
+﻿  C-chapter13-01.cpp
+c:\users\孙常青\source\repos\c\c-chapter13-01\c-chapter13-01\c-chapter13-01.cpp(138): error C4700: 使用了未初始化的局部变量“ourT”
